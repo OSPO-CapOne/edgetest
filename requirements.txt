@@ -16,6 +16,7 @@ pyparsing==3.0.7
     # via packaging
 tabulate==0.8.9
     # via edgetest (setup.cfg)
+environs==9.5.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
